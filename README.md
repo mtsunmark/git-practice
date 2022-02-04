@@ -3,4 +3,4 @@
 自分のリポジトリで更新
 rebase-practiceで更新(rebase conflict用)
 rebase pull用
-stash 練習用
+stash 練習用（トラック済み）
